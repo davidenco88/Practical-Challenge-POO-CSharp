@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Practical-Challenge-POO-CSharp/1.0.0": {
+        "runtime": {
+          "Practical-Challenge-POO-CSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practical-Challenge-POO-CSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
