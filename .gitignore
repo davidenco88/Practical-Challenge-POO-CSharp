@@ -1,0 +1,38 @@
+# Compilación de .NET
+bin/
+obj/
+out/
+
+# Archivos generados por Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Caché y configuración de paquetes
+*.cache
+*.nupkg
+packages/
+TestResults/
+.vscode/
+
+# Configuración de IDEs y editores
+.idea/
+*.csproj.user
+
+# Archivos de logs y depuración
+logs/
+*.log
+*.tlog
+*.pdb
+
+# Configuración específica del sistema operativo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos de dependencias y configuración de herramientas
+node_modules/
+.env
+.DS_Store
